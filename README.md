@@ -3,7 +3,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 ![gorsel](img/image.png)
 
 ## Installation 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 ```git clone https://github.com/busraksakalli7/kodluyoruzilkrepo.git ```
 
 ## Usage
